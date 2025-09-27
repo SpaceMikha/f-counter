@@ -1,4 +1,4 @@
-# Hand Gesture Detector 🤖✋
+# Detector 
 
 ## Descripción
 Sistema de detección de gestos con las manos que controla LEDs mediante Arduino, muy basico. El proyecto utiliza visión por computadora para reconocer el número de dedos levantados y envía comandos serie a un microcontrolador Arduino para encender los LEDs correspondientes.
